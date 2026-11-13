@@ -1,16 +1,17 @@
+[![Cover](assets/cover.png)](https://www.oocities.org/spunk1111/)
+
 # Joan Stark's ASCII Art Gallery
 
-Website of famous ascii-art artist [Joan Stark](https://en.wikipedia.org/wiki/Joan_Stark).  
+Website of famous ASCII art artist [Joan Stark](https://en.wikipedia.org/wiki/Joan_Stark).
 
-Original website was running at http://www.geocities.com/SoHo/7373. But now it is available only in [WebArchive](https://web.archive.org/web/20091028013825/http://www.geocities.com/SoHo/7373/) or here in [Github Pages](https://oldcompcz.github.io/jgs/joan_stark/).
+Original website was running at `http://www.geocities.com/SoHo/7373`.
+Now available in [WebArchive](https://web.archive.org/web/20091028013825/http://www.geocities.com/SoHo/7373/),
+[OoCities](https://www.oocities.org/spunk1111/) (mirror of Geocities),
+and [GitHub Pages](https://0mega3.github.io/jgs/joan_stark/).
 
-![Title picture](joan_stark/entry5.jpg)
-  
-For more info about Joan Stark see [Wikipedia](https://en.wikipedia.org/wiki/Joan_Stark).
+## Usage
 
-## How to run it
+Clone the repository and open `joan_stark/index.html`.
 
-Just clone repository and run `joan_stark/index.html`  
-
-(Needs to be cleaned and restored.)
- 
+> [!NOTE]
+> Needs to be cleaned and restored.
